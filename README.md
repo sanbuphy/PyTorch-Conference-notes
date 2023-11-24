@@ -15,7 +15,7 @@ PyTorch Conference是一年一度的盛会，旨在展示流行的机器学习�
 
 ## 现有文章
 
-1. AOTInductor: Ahead-of-Time Compilation for PT2 Exported Models - Bin Bao, Meta
+1. [AOTInductor: Ahead-of-Time Compilation for PT2 Exported Models - Bin Bao, Meta](./aotinductor.md)
 
 
 ## 如何快速做笔记？
