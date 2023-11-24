@@ -1,5 +1,7 @@
 # AOTInductor: Ahead-of-Time Compilation for PT2 Exported Models - Bin Bao, Meta
 
+翻译总结： 散步（sanbuphy）
+
 ## 大纲
 
 1. 讲座背景介绍  
