@@ -2,6 +2,8 @@
 
 正如 CppCon 对 C++ 前瞻指引的地位那样，我认为 PytorchCon 也应该有类似的用处，而中文届的资料少之甚少，于是开始了这个项目，也欢迎你一起贡献。
 
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/96160062/285341155-633f98ce-2909-4614-89a0-7e4566a6c592.png)
+
 ## 什么是 Pytorch Conference？
 
 PyTorch Conference是一年一度的盛会，旨在展示流行的机器学习框架PyTorch的最新版本和应用。作为Linux Foundation的一部分，PyTorch Foundation Conference延续了传统，汇集了领先的研究人员、开发者和学术界，推动端到端机器学习的教育和发展。
