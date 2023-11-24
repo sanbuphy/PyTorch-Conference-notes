@@ -10,6 +10,9 @@ PyTorch Conference是一年一度的盛会，旨在展示流行的机器学习�
 
 会议征集演讲提案，鼓励有经验的和首次演讲者提交他们的提案。演讲主题涵盖AWS、Azure上的部署、真实应用案例、基础模型、AI实践、生产考虑、PyTorch 2.X特性和更新、训练技术和最佳实践、推理方法学、硬件进展和优化、边缘计算应用、可扩展性解决方案、最新的研究突破、优化策略、通过定制和插件扩展PyTorch等内容。
 
+[https://www.youtube.com/@PyTorch/videos](https://www.youtube.com/@PyTorch/videos)
+
+
 ## 现有文章
 
 1. AOTInductor: Ahead-of-Time Compilation for PT2 Exported Models - Bin Bao, Meta
